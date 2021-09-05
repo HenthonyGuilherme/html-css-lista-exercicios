@@ -1,0 +1,42 @@
+div{
+    width: 27em;
+    height: 15em;
+    padding: 20px;
+}
+
+table{
+    position: relative;
+    left: 4em;
+    width: 20em;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.ita{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.red{
+    color: red;
+    text-align: center;
+}
+
+.green{
+    color: green;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+}
+
+.bac{
+    background-color: lightgrey;
+}

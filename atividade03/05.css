@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: pink;
+    padding: 0;
+}
+
+#cab{
+    text-align: center;
+}
+h1{
+    text-shadow: 2px 2px red;
+}
+
+#s01{
+    background-color: white;
+    text-align: center;
+    border: solid 1px orange;
+    margin: 10px;
+}
+
+#s02{
+    text-align: center;
+    margin: 2em;
+}
+img{
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px darksalmon;
+}
+
+#fund{
+    background-color: white;
+    font-weight: bold;
+    margin: 10px;
+}
+p{
+    text-align: center;
+    padding: 15px;
+}
